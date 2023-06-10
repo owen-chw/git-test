@@ -13,3 +13,4 @@ print("issue3")
 
 print("ccc")
 print("add a line in branch B")
+print("add a line in branch A")
